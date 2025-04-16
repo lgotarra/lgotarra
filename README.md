@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻 Full Stack Developer & Telecoms Engineer  
-🎓 Degree in Audiovisual Systems Engineering (UPC) + Postgraduate in Full-Stack Web Development (UPC)
+🎓 Degree in Audiovisual Systems Engineering (UPC) + Postgraduate in Full-Stack Web Development (UPC)  
 🌍 Based in Terrassa, Barcelona  
 
 ## 🌱 About me
